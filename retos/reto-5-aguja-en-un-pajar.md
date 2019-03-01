@@ -19,4 +19,3 @@ encontrarAguja(pajar);
 ```javascript
 'La aguja se ha encontrado en la posición 2';
 ```
-

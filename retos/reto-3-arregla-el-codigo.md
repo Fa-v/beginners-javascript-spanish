@@ -15,3 +15,4 @@ function 'add' () {
 add(first number, second number);
 ```
 
+### [Ir al reto 4 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/retos/reto-4-fizzbuzz.md)

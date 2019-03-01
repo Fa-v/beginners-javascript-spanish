@@ -24,9 +24,10 @@ De momento, no te preocupes por el "undefined" \(sin definir\). Va a desaparecer
 
 Tal vez te estás preguntando porqué el código que has escrito termina con un punto y coma. El punto y coma se usa para terminar cada declaración en JavaScript. Normalmente el código no se rompe si se te olvida ponerlo, pero es una buena práctica siempre usarlo.
 
-{% hint style="info" %}
 #### Mini reto
 
-Intenta hacer un `console.log()` de otra cosa. Intenta hacer un `console.log()` de varias cosas a la vez. ¿Hay una diferencia entre comillas simples y comillas dobles? ¿Qué pasa cuando quitas las comillas? ¿Qué pasa cuando haces un `console.log()` de un número sin las comillas?
-{% endhint %}
+---
 
+Intenta hacer un `console.log()` de otra cosa. Intenta hacer un `console.log()` de varias cosas a la vez. ¿Hay una diferencia entre comillas simples y comillas dobles? ¿Qué pasa cuando quitas las comillas? ¿Qué pasa cuando haces un `console.log()` de un número sin las comillas?
+
+### [Ir a la Sección 2 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/taller/seccion-2-tipos-de-datos.md)

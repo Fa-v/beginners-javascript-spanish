@@ -42,9 +42,10 @@ for (var i = 1; i <= 10; i++) {
 
 Fíjate que se asigna el número `1` a la variable `i` ya que queremos empezar a contar desde 1. La longitud del bucle se define como menor que o igual a 10 debido a que queremos que el bucle termine cuando alcance ese número. También estamos incrementando el valor de `i` mas uno en cada vuelta.
 
-{% hint style="info" %}
 #### Mini reto
 
-Escribe un bucle "for" que itera de 0 a 100, imprimiendo solo los números pares \(incluyendo 0\). Debe devolver `0, 2, 4, 6, 8, 10...`.
-{% endhint %}
+---
 
+Escribe un bucle "for" que itera de 0 a 100, imprimiendo solo los números pares \(incluyendo 0\). Debe devolver `0, 2, 4, 6, 8, 10...`.
+
+### [Ir a la Sección 7 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/taller/seccion-7-funciones.md)

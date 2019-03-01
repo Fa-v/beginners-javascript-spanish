@@ -34,8 +34,9 @@ Podemos hacer un `console.log()` del objeto entero, pero tmabién podemos sacar 
 console.log(persona.nombre);
 ```
 
-{% hint style="info" %}
 ### Mini reto
+
+---
 
 Usando el objeto que representa a una persona, hacemos un `console.log()` de una frase que represente a esa persona. Tienes que imprimir lo siguiente en la consola:
 
@@ -54,5 +55,5 @@ console.log('Mi ' + animal.especie + 'se llama ' + animal.nombre + '.');
 ```
 
 No te olvides incluir espacios donde hagan falta.
-{% endhint %}
 
+### [Ir al reto 1 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/retos/reto-1-la-diferencia-de-edad.md)

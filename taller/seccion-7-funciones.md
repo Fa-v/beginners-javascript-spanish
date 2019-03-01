@@ -55,9 +55,10 @@ add(2, 3);
 
 Ejecuta este código. ¡Con suerte te dará la respuesta correcta! :\)
 
-{% hint style="info" %}
 #### Mini reto
 
-Escribe una función `multiply` que multiplica dos números. Debe recibir dos números como parámetros y devolver la respuesta correcta.
-{% endhint %}
+---
 
+Escribe una función `multiply` que multiplica dos números. Debe recibir dos números como parámetros y devolver la respuesta correcta.
+
+### [Ir a la Sección 8 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/taller/seccion-8-arrays.md)

@@ -18,8 +18,9 @@ Fíjate en que una vez que has creado la variable puedes simplemente escribir el
 
 Ejecuta el código de ejemplo. Debes ver 'Beyoncé Knowles' en la consola.
 
-{% hint style="info" %}
 #### Mini reto
+
+---
 
 Tu código de la sección será algo parecido a esto \(tal vez incluyendo unos comentarios\):
 
@@ -32,5 +33,5 @@ console.log(typeof false);
 Ahora que sabes cómo crear variables, vuelve a escribir este código. Esta vez, define los valores como variables al principio del fichero. Después, refiérete a ellas/hazles referencia por sus nombres dentro de las declaraciones de `console.log()` en vez de escribir los valores.
 
 ¿Devuelve lo mismo el código refactorizado?
-{% endhint %}
 
+### [Ir a la Sección 5 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/taller/seccion-5-sentencias-de-control-if-else.md)

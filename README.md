@@ -14,3 +14,4 @@ El taller se divide en varias secciones. En cada sección, verás un concepto nu
 
 Cuando escribes tu código, vas a necesitar ver lo que hace. Para esto, tendrás que "ejecutarlo" en algún sitio. Hay varias maneras de hacerlo, pero para no complicarnos hoy, vamos a usar la herramienta [Repl.it](https://repl.it/). Crea una cuenta y empieza un proyecto nuevo en su página. Asegúrate de elegir JavaScript como el lenguaje para el proyecto creado.
 
+### [Ir a la sección 1 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/taller/seccion-1-hola-mundo.md)

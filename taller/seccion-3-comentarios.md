@@ -19,9 +19,10 @@ También puedes poner comentarios en la misma línea que el código:
 console.log(typeof 'Hola mundo!'); // checking type of hola mundo
 ```
 
-{% hint style="info" %}
 #### Mini reto
 
-Ahora añade algunos comentarios útiles al código que escribiste en la última sección y ¡ejecuta el código para asegurarte de que no has roto nada! :\)
-{% endhint %}
+---
 
+Ahora añade algunos comentarios útiles al código que escribiste en la última sección y ¡ejecuta el código para asegurarte de que no has roto nada! :\)
+
+### [Ir a la Sección 4 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/taller/seccion-4-variables.md)

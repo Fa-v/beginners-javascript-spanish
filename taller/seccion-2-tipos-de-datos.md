@@ -7,7 +7,7 @@ Si has jugado con el `console.log()` en la última sección, habrás visto que l
 Una cadena es solo un trozo de texto y puede ser de un solo caracter o incluso hasta párrafos. Cabe destacar que una cadena siempre tiene que estar envuelta en comillas \(sencillas o dobles\).
 
 ```javascript
-'node girls'
+'node girls';
 ```
 
 ### Integers \(Números\)
@@ -15,7 +15,7 @@ Una cadena es solo un trozo de texto y puede ser de un solo caracter o incluso h
 En JavaScript los números se llaman "integers" \(enteros\). No hace falta ponerlos entre comillas y se pueden escribir tal cual.
 
 ```javascript
-100
+100;
 ```
 
 ### Booleans \(Lógicos\)
@@ -23,7 +23,7 @@ En JavaScript los números se llaman "integers" \(enteros\). No hace falta poner
 Hay un tipo de dato especial en javaScript conocido como un valor "boolean" que indica si una declaración es verdadera o falsa. Puede tener un valor de `true` o `false`, y siempre se escribe sin comillas.
 
 ```javascript
-true
+true;
 ```
 
 #### Pruébalo
@@ -38,9 +38,10 @@ console.log(typeof 'Hola mundo!');
 
 Debes ver `string` impreso en la consola. Eso es por que 'Hola mundo!' es del tipo 'cadena' \('string'\).
 
-{% hint style="info" %}
 #### Mini reto
 
-Ahora, intenta eso tres veces, una para cada tipo de datos. Escribe a la consola el `typeof` tres valores diferentes: `"node girls"`, `1234` y `false`. La salida debe ser diferente para cada uno.
-{% endhint %}
+---
 
+Ahora, intenta eso tres veces, una para cada tipo de datos. Escribe a la consola el `typeof` tres valores diferentes: `"node girls"`, `1234` y `false`. La salida debe ser diferente para cada uno.
+
+### [Ir a la Sección 3 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/taller/seccion-3-comentarios.md)

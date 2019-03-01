@@ -49,3 +49,4 @@ var escritoras = [
 
 Si quieres probar con otro reto, trata de hacer el `console.log()` de las escritoras que siguen vivas \(viva: true\).
 
+### [Ir al reto 3 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/retos/reto-3-arregla-el-codigo.md)

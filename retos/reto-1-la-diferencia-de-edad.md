@@ -22,3 +22,4 @@ Se invocará la función de la siguiente manera:
 js ageDifference(masJoven, elMayor); // ---> devuelve 70
 ```
 
+### [Ir al reto 2 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/retos/reto-2-escritoras-famosas.md)

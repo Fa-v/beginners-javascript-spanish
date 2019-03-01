@@ -48,8 +48,9 @@ if (happy === true) {
 
 ¡Vamos a ejecutar este código y ver qué pasa! \(Recuerda que las variables tienen que estar declaradas al princípio del Repl\). Intenta cambiar el valor de la variable de `true` a `false`.
 
-{% hint style="info" %}
 #### Mini reto
+
+---
 
 Escribe una sentencia de control "if/else" que evalúa si un número es par o impar. Si es un número par, debe imprimir la cadena `'par'`, y si es impar, la cadena `'impar'`.
 
@@ -61,5 +62,5 @@ Para este reto, el uso del operador "módulo" - que se escribe así `%` - te pue
 ```
 
 Un número par tendrá un resto de 0 al ser divido por 2. Puedes leer más sobre el operador módulo [aquí](http://www.w3schools.com/js/js_operators.asp).
-{% endhint %}
 
+### [Ir a la Sección 6 >>>>](https://github.com/Fa-v/beginners-javascript-spanish/blob/master/taller/seccion-6-los-bucles-for.md)
